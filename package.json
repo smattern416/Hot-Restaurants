@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/smattern416/Hot-Restaurants#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
